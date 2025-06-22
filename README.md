@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Stuti Singh
 
-<!--
-**StutiSingh876/StutiSingh876** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an aspiring DevOps & Cloud Engineer with a passion for building real-world backend & infrastructure projects.
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- 🐍 Python, Flask
+- 🐳 Docker, Docker Compose
+- 🧠 PostgreSQL
+- ☁️ Learning Kubernetes, CI/CD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Projects
+- 🔧 Flask + PostgreSQL Fullstack App (Dockerized)
+- 🕹 Python Snake Game
+- 🌐 Portfolio Website (Next.js + Animations)
+- 📦 Static Website on Nginx Docker
+
+### 🌱 Currently learning
+- Kubernetes • CI/CD • AWS
+
+### 📫 Connect with me:
+- GitHub: [github.com/StutiSingh876](https://github.com/StutiSingh876)
+
